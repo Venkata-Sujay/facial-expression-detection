@@ -38,9 +38,6 @@ We used **Transfer Learning** with **MobileNetV2** as the base model.
 * **Generalization:** The model demonstrates strong generalization with Validation Accuracy consistently outperforming Training Accuracy, indicating robust data augmentation.
 * **Real-Time Speed:** High FPS on standard CPU due to the lightweight MobileNetV2 architecture.
 
-![Training Graph](path/to/your/accuracy_graph.png)
-*(Replace this text with the path to your training graph image)*
-
 ## 🛠️ Installation & Usage
 
 ### 1. Clone the Repository
